@@ -113,7 +113,7 @@ if __name__ == "__main__":
     
     url_config = "urls.txt"
     channel_config = "channels.txt"
-    output_txt = "wine.txt"
+    output_txt = "info.txt"
     
     if os.path.exists(url_config):
         with open(url_config, 'r', encoding='utf-8') as f:
