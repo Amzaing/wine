@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="Favourite",湖南卫视
 webview://https://yangshipin.cn/tv/home?pid=600002475
 
